@@ -1,2 +1,4 @@
 # hello-world
-This is a tutorial practice to get start with github
+Hi, friends and families: 
+
+My name is Jason Liang, and I am an aspiring young Computer Scientist and Math hobbyist. In my free time, I love to run and play my oboe. 
